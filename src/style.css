@@ -23,16 +23,16 @@ p {
   text-shadow: 0 0 20px rgb(230, 10, 32), 0 0 20px rgba(230, 10, 10, 0);
 }
 img{
-    left: -57%;
-    top: -180%;
-    object-fit: cover;
-    width: 205%;
-    z-index: -1;
-    position: absolute;
+  object-fit: cover;
+  position: absolute;
+  z-index: -1;
+  width: 230%;
+  top: -225%;
+  left: -70%;
 }
 .time {
   letter-spacing: 0.05em;
-  font-size: 80px;
+  font-size: 5rem;
   padding: 5px 0;
 }
 .date {
